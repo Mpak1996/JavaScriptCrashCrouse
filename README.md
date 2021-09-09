@@ -1,2 +1,3 @@
-# JavaScriptCrashCrouse
-JavaScript Crash Course
+# JavaScript Crash Crouse
+
+* console.log 

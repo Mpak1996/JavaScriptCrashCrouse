@@ -1,8 +1,9 @@
 # JavaScript Crash Crouse
 
 ## Chapters
-* console.log 
-* alert
+* console.log() -> A message in inspect page - console
+* alert()   -> Pop up message with ok button as an alert
+* document.write() -> dummy text in document
 
 
 

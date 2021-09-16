@@ -7,7 +7,7 @@
 * String and Number Data
 * Variables in JS
 * Variables Naming in JS
-* Boolean and Undifined Type
+* Boolean and Undefined Type
 
 
 

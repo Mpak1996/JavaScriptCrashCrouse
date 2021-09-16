@@ -8,6 +8,7 @@
 * Variables in JS
 * Variables Naming in JS
 * Boolean and Undefined Type
+* Arithmetic Operators
 
 
 
